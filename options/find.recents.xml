@@ -6,6 +6,8 @@
       <find>expandcontractview</find>
       <find>TODO</find>
       <find>build</find>
+      <find>px(</find>
+      <find>ViewHelper</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/Roam/myhouse-android/app/src/main/res/values</dir>
