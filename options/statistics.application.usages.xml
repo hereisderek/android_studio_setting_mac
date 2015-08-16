@@ -1,0 +1,44 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="myhouse-android" values="Git" collectionTime="1439529215858" />
+      <project id="roamtoolkit-android" values="Git" collectionTime="1439529712764" />
+    </group>
+    <group name="file-type">
+      <project id="myhouse-android" values="AIDL,ARCHIVE,Groovy,XML,PLAIN_TEXT,UNKNOWN,JAVA,IDEA_MODULE,Properties,ProGuard File,Images" collectionTime="1439529215929" />
+      <project id="roamtoolkit-android" values="UNKNOWN,PLAIN_TEXT,Manifest,AIDL,JAVA,IDEA_MODULE,Groovy,ProGuard File,ARCHIVE,Properties,XML,CLASS,Images" collectionTime="1439529712796" />
+      <project id="Sublime Text.app" values="Images,UNKNOWN,IDEA_MODULE,ARCHIVE,XML,PLAIN_TEXT" collectionTime="1439326798339" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="myhouse-android" values="AndroidRunConfigurationType" collectionTime="1439529215859" />
+    </group>
+    <group name="language-level">
+      <project id="myhouse-android" values="JDK_1_7" collectionTime="1439529215943" />
+      <project id="roamtoolkit-android" values="JDK_1_6" collectionTime="1439529712797" />
+      <project id="Sublime Text.app" values="JDK_1_6" collectionTime="1439326798339" />
+    </group>
+    <group name="frameworks">
+      <project id="myhouse-android" values="android,java-gradle,android-gradle" collectionTime="1439529215858" />
+      <project id="roamtoolkit-android" values="android" collectionTime="1439529712764" />
+    </group>
+    <group name="module type">
+      <project id="myhouse-android" values="JAVA_MODULE" collectionTime="1439529215858" />
+      <project id="roamtoolkit-android" values="JAVA_MODULE" collectionTime="1439529712764" />
+      <project id="Sublime Text.app" values="JAVA_MODULE" collectionTime="1439326798333" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="5" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="108" />
+      <entry feature="ide.settings.Android_SDK" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="2" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Gradle" count="3" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="4" />
+      <entry feature="ide.settings.Updates" count="2" />
+      <entry feature="ideaapp.started" count="13" />
+    </counts>
+  </component>
+</application>
