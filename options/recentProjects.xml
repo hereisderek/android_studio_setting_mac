@@ -2,13 +2,18 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Roam/roamtoolkit-android/roamtoolkit-android" />
         <option value="$USER_HOME$/Roam/myhouse-android" />
         <option value="$USER_HOME$/Roam/roamtoolkit-android" />
-        <option value="$USER_HOME$/Roam/roamtoolkit-android/roamtoolkit-android" />
         <option value="/Applications/Sublime Text.app" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/Roam/myhouse-android" />
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Roam/myhouse-android" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Roam/roamtoolkit-android/roamtoolkit-android" />
     <option name="lastProjectLocation" value="$USER_HOME$/Roam/roamtoolkit-android" />
   </component>
 </application>
