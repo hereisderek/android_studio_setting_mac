@@ -9,6 +9,7 @@
       <find>px(</find>
       <find>ViewHelper</find>
       <find>Below is a sum</find>
+      <find>this property</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/Roam/myhouse-android/app/src/main/res/values</dir>

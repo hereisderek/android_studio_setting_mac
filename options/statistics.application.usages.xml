@@ -1,28 +1,28 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="vcs">
-      <project id="myhouse-android" values="Git" collectionTime="1439809125750" />
+      <project id="myhouse-android" values="Git" collectionTime="1439876473112" />
       <project id="roamtoolkit-android" values="Git" collectionTime="1439850226308" />
     </group>
     <group name="file-type">
-      <project id="myhouse-android" values="ProGuard File,AIDL,PLAIN_TEXT,UNKNOWN,XML,Properties,JAVA,ARCHIVE,Images,IDEA_MODULE,Groovy" collectionTime="1439809125793" />
-      <project id="roamtoolkit-android" values="Images,PLAIN_TEXT,ProGuard File,Properties,IDEA_MODULE,XML,UNKNOWN,ARCHIVE,AIDL,Manifest,Groovy,JAVA,CLASS" collectionTime="1439850226331" />
-      <project id="Sublime Text.app" values="UNKNOWN,IDEA_MODULE,Images,XML,ARCHIVE,PLAIN_TEXT" collectionTime="1439326798339" />
+      <project id="myhouse-android" values="Groovy,AIDL,IDEA_MODULE,Images,UNKNOWN,ProGuard File,ARCHIVE,PLAIN_TEXT,JAVA,Properties,XML" collectionTime="1439876473158" />
+      <project id="roamtoolkit-android" values="PLAIN_TEXT,IDEA_MODULE,AIDL,XML,ProGuard File,Manifest,Groovy,ARCHIVE,JAVA,Images,UNKNOWN,Properties,CLASS" collectionTime="1439850226331" />
+      <project id="Sublime Text.app" values="XML,IDEA_MODULE,ARCHIVE,Images,PLAIN_TEXT,UNKNOWN" collectionTime="1439326798339" />
     </group>
     <group name="run-configuration-type">
-      <project id="myhouse-android" values="AndroidRunConfigurationType" collectionTime="1439809125750" />
+      <project id="myhouse-android" values="AndroidRunConfigurationType" collectionTime="1439876473113" />
     </group>
     <group name="language-level">
-      <project id="myhouse-android" values="JDK_1_7" collectionTime="1439809125795" />
+      <project id="myhouse-android" values="JDK_1_7" collectionTime="1439876473169" />
       <project id="roamtoolkit-android" values="JDK_1_7" collectionTime="1439850226335" />
       <project id="Sublime Text.app" values="JDK_1_6" collectionTime="1439326798339" />
     </group>
     <group name="frameworks">
-      <project id="myhouse-android" values="android,android-gradle,java-gradle" collectionTime="1439809125750" />
+      <project id="myhouse-android" values="android-gradle,android,java-gradle" collectionTime="1439876473113" />
       <project id="roamtoolkit-android" values="android" collectionTime="1439850226308" />
     </group>
     <group name="module type">
-      <project id="myhouse-android" values="JAVA_MODULE" collectionTime="1439809125750" />
+      <project id="myhouse-android" values="JAVA_MODULE" collectionTime="1439876473113" />
       <project id="roamtoolkit-android" values="JAVA_MODULE" collectionTime="1439850226308" />
       <project id="Sublime Text.app" values="JAVA_MODULE" collectionTime="1439326798333" />
     </group>
@@ -30,7 +30,7 @@
   <component name="UsageTrigger">
     <counts>
       <entry feature="execute.AndroidRunConfigurationType.Debug" count="10" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="210" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="221" />
       <entry feature="ide.settings.Android_SDK" count="1" />
       <entry feature="ide.settings.Appearance" count="1" />
       <entry feature="ide.settings.Auto_Import" count="1" />
@@ -42,7 +42,7 @@
       <entry feature="ide.settings.Plugins" count="1" />
       <entry feature="ide.settings.Project_Structure" count="5" />
       <entry feature="ide.settings.Updates" count="2" />
-      <entry feature="ideaapp.started" count="15" />
+      <entry feature="ideaapp.started" count="17" />
     </counts>
   </component>
 </application>
