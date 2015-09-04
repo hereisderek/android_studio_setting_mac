@@ -9,4 +9,6 @@ options/other.xml
 options/runner.layout.xml
 options/statistics.application.usages.xml
 options/window.manager.xml
+tasks/
 find.xml
+filetypes.xml
