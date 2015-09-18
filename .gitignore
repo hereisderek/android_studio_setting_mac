@@ -12,3 +12,7 @@ options/window.manager.xml
 tasks/
 find.xml
 filetypes.xml
+vcs.xml
+security.xml
+hg.xml
+dslActivation.xml
