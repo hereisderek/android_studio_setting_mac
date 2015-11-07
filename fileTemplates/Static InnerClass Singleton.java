@@ -2,10 +2,13 @@
 #parse("File Header.java")
 public class ${NAME}{
     private static final String TAG = ${NAME}.class.getSimpleName();
-    private static ${NAME} instance = new ${NAME}();
-
-    public synchronized static ${NAME} getInstance() {
-        return instance;
+    
+    private static class SingletonHolder {
+        private static final ${NAME} INSTANCE = new ${NAME}();  
+    }
+    
+    public synchronized static final ${NAME} getInstance() {
+        return SingletonHolder.INSTANCE;
     }
 
     private ${NAME}() {
