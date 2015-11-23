@@ -2,8 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="java.field.name" />
-        <option value="java.class.extlist" />
         <option value="java.annotations" />
         <option value="gr.anonymous.class" />
         <option value="gr.class.super" />
@@ -19,10 +17,13 @@
         <option value="dom.namespaceKey" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
+        <option value="java.method.parameter.types" />
         <option value="java.anonymous.baseref" />
         <option value="jvm.static.member.type" />
         <option value="jvm.static.member.name" />
         <option value="java.method.name" />
+        <option value="java.field.name" />
+        <option value="java.class.extlist" />
       </list>
     </option>
   </component>

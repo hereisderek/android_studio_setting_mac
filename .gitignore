@@ -16,3 +16,4 @@ vcs.xml
 security.xml
 hg.xml
 dslActivation.xml
+port.lock
