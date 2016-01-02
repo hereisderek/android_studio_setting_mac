@@ -2,5 +2,5 @@
 #parse("File Header.java")
 public class ${NAME} {
     #parse("Java TAG.java")
-    private static final String TAG = "${NAME}";
+    
 }

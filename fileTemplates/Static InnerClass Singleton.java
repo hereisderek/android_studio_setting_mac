@@ -6,11 +6,11 @@ public class ${NAME}{
     private static class SingletonHolder {
         private static final ${NAME} INSTANCE = new ${NAME}();  
     }
-    
-    public synchronized static final ${NAME} getInstance() {
+    public synchronized static ${NAME} getInstance() {
         return SingletonHolder.INSTANCE;
     }
 
     private ${NAME}() {
     }
+    
 }
