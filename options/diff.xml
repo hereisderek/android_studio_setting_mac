@@ -34,7 +34,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="DO_NOT_HIGHLIGHT" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
