@@ -10,7 +10,7 @@
       <emptyLine />
       <package name="com" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="junit" withSubpackages="true" static="false" />
+      <package name="junit" withSubpackages="true" static="true" />
       <emptyLine />
       <package name="net" withSubpackages="true" static="false" />
       <emptyLine />
@@ -69,6 +69,21 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
+    <indentOptions>
+      <option name="USE_RELATIVE_INDENTS" value="true" />
+    </indentOptions>
+    <arrangement>
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
