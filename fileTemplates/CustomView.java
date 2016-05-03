@@ -8,13 +8,7 @@ import android.view.View;
 public class ${NAME} extends View {
     #parse("Java TAG.java")
 
-    private static final int DEFAULT_WIDTH = ViewHelper.dpToPx(50);
-    private static final int DEFAULT_HEIGHT = ViewHelper.dpToPx(50);
-
-    private int width = DEFAULT_WIDTH;
-    private int height = DEFAULT_HEIGHT;
-
-    public ${NAME}(Context context) {
+     public ${NAME}(Context context) {
         this(context, null);
     }
 
@@ -24,7 +18,6 @@ public class ${NAME} extends View {
 
     public ${NAME}(Context context, AttributeSet attrs, int defStyleAttr) {
         this(context, attrs, defStyleAttr, 0);
-        init(context, attrs);
     }
 
     @TargetApi(21)
@@ -38,46 +31,35 @@ public class ${NAME} extends View {
 
     }
     private void parseAttrs(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
-//        final TypedArray a = context.obtainStyledAttributes(
-//                attrs, R.styleable.ImageCoverCardControlPanel, defStyleAttr, defStyleRes);
+        final Resources.Theme theme = context.getTheme();
+        //TypedArray ta = theme.obtainStyledAttributes(attrs, R.styleable.IUTextView, defStyleAttr, defStyleRes);
+        //TypedArray ta = context.obtainStyledAttributes(attrs, R.styleable.IUTextView);
 
-//        a.recycle();
-    }
-    
-    /* Size */
-    @Override
-    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
-        
-        setMeasuredDimension(
-                getSize(width, widthMeasureSpec),
-                getSize(height, heightMeasureSpec)
-        );
-    }
+        /*
+        try {
+            RLog.i(TAG, "parsing attrs:", ta.getIndexCount());
 
-    public static int getDefaultSize(int size, int measureSpec) {
-        int result = size;
-        int specMode = MeasureSpec.getMode(measureSpec);
-        int specSize = MeasureSpec.getSize(measureSpec);
+            int n = ta.getIndexCount();
+            for (int i = 0; i < n; i++) {
+                int attr = ta.getIndex(i);
+                int index;
+                String str;
 
-        switch (specMode) {
-            case MeasureSpec.UNSPECIFIED:
-                result = size;
-                break;
-            case MeasureSpec.AT_MOST:
-            case MeasureSpec.EXACTLY:
-                result = specSize;
-                break;
+                switch (attr) {
+                    case R.styleable.IUTextView_typeface:
+                        index = ta.getInt(attr, -1);
+                        if (index != -1) {
+                            setTypeface(FontManager.getInstance().getTypefaceForAttribute(index));
+                        } else {
+                            str = ta.getString(attr);
+                            setTypeface(FontManager.getInstance().getTypefaceForAttribute(str));
+                        }
+                        break;
+                }
+            }
+        } finally {
+            ta.recycle();
         }
-        return result;
-    }
-
-    @Override
-    protected void onDraw(Canvas canvas) {
-        super.onDraw(canvas);
-    }
-
-    @Override
-    protected void onLayout(boolean changed, int left, int top, int right, int bottom) {
-        super.onLayout(changed, left, top, right, bottom);
+        */
     }
 }

@@ -24,7 +24,7 @@ public class ${NAME} extends View {
 
     public ${NAME}(Context context, AttributeSet attrs, int defStyleAttr) {
         this(context, attrs, defStyleAttr, 0);
-        init(context, attrs);
+        init(context, attrs, defStyleAttr, 0);
     }
 
     @TargetApi(21)
