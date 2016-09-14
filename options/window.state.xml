@@ -6,27 +6,35 @@
     <state x="2020" y="100" width="3640" height="1960" key="AVDManager/0.0.1920.1200/1920.0.3840.2160@0.0.1920.1200" />
     <state x="339" y="59" width="1570" height="1014" key="AVDManager/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
     <state x="165" y="170" width="1614" height="977" key="AVDManager/0.0.1920.1200@0.0.1920.1200" />
-    <state x="59" y="61" width="1861" height="1139" key="DiffContextDialog" />
-    <state x="59" y="61" width="1861" height="1139" key="DiffContextDialog/0.0.1920.1200/1920.0.3840.2160" />
-    <state x="59" y="61" width="1861" height="1139" key="DiffContextDialog/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
-    <state x="2316" y="590" width="1640" height="1177" key="VCS.FileHistoryDialog" />
-    <state x="2316" y="590" width="1640" height="1177" key="VCS.FileHistoryDialog/0.0.1920.1200/1920.0.3840.2160" />
+    <state x="90" y="23" width="1861" height="1139" key="DiffContextDialog" />
+    <state x="90" y="23" width="1861" height="1139" key="DiffContextDialog/0.0.1920.1200/1920.0.3840.2160" />
+    <state x="90" y="23" width="1861" height="1139" key="DiffContextDialog/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
+    <state x="251" y="23" width="1640" height="1177" key="VCS.FileHistoryDialog" />
+    <state x="251" y="23" width="1640" height="1177" key="VCS.FileHistoryDialog/0.0.1920.1200/1920.0.3840.2160" />
     <state x="164" y="126" width="1640" height="1177" key="VCS.FileHistoryDialog/0.0.1920.1200/1920.0.3840.2160@0.0.1920.1200" />
-    <state x="2316" y="590" width="1640" height="1177" key="VCS.FileHistoryDialog/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
+    <state x="251" y="23" width="1640" height="1177" key="VCS.FileHistoryDialog/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
+    <state x="2200" y="23" width="1640" height="1057" key="VCS.FileHistoryDialog/1920.0.1920.1080/0.0.1920.1200" />
+    <state x="2200" y="23" width="1640" height="1057" key="VCS.FileHistoryDialog/1920.0.1920.1080/0.0.1920.1200@0.0.1920.1200" />
     <state x="2020" y="100" width="3640" height="1960" key="com.android.tools.idea.avdmanager.AvdListDialog" />
     <state x="2020" y="100" width="3640" height="1960" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1200/1920.0.3840.2160" />
     <state x="2020" y="100" width="3640" height="1960" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
     <state x="2020" y="100" width="3640" height="1960" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" />
     <state x="2020" y="100" width="3640" height="1960" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1200/1920.0.3840.2160" />
     <state x="2020" y="100" width="3640" height="1960" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
-    <state x="180" y="26" width="1882" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog" />
+    <state x="38" y="23" width="1882" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog" />
     <state x="46" y="53" width="1884" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1200" />
-    <state x="180" y="26" width="1882" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1200/1920.0.3840.2160" />
-    <state x="180" y="26" width="1882" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
+    <state x="38" y="23" width="1882" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1200/1920.0.3840.2160" />
+    <state x="38" y="23" width="1882" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
     <state x="46" y="53" width="1884" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1200@0.0.1920.1200" />
+    <state x="38" y="23" width="1882" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1080/0.0.1920.1200" />
+    <state x="38" y="23" width="1882" height="1105" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1080/0.0.1920.1200@0.0.1920.1200" />
     <state x="2379" y="229" width="2659" height="1909" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" />
+    <state x="120" y="96" width="1720" height="1000" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.-1080.1920.1080/0.0.1920.1200" />
+    <state x="120" y="96" width="1720" height="1000" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.-1080.1920.1080/0.0.1920.1200@0.0.1920.1200" />
     <state x="2379" y="229" width="2659" height="1909" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1200/1920.0.3840.2160" />
     <state x="2379" y="229" width="2659" height="1909" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
+    <state x="1920" y="23" width="1920" height="1057" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/1920.0.1920.1080/0.0.1920.1200" />
+    <state x="1920" y="23" width="1920" height="1057" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/1920.0.1920.1080/0.0.1920.1200@0.0.1920.1200" />
     <state x="3803" y="380" width="1354" height="1177" key="dock-window-1" />
     <state x="3803" y="380" width="1354" height="1177" key="dock-window-1/0.0.1920.1200/1920.0.3840.2160" />
     <state x="3803" y="380" width="1354" height="1177" key="dock-window-1/0.0.1920.1200/1920.0.3840.2160@1920.0.3840.2160" />
