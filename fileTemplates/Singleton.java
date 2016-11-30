@@ -1,12 +1,16 @@
-#if (${PACKAGE_NAME} && ${PACKAGE_NAME} != "")package ${PACKAGE_NAME};#end
-#parse("File Header.java")
-public class ${NAME}{
-    #parse("Java TAG.java")
-    
-    private static ${NAME} instance = new ${NAME}();
+#if (${PACKAGE_NAME} != "")package ${PACKAGE_NAME};#end
 
-    public synchronized static ${NAME} getInstance() {
-        return instance;
+#if (${IMPORT_BLOCK} != "")${IMPORT_BLOCK}
+#end
+#parse("File Header.java")
+
+#if (${VISIBILITY} == "PUBLIC")public #end class ${NAME} #if (${SUPERCLASS} != "")extends ${SUPERCLASS} #end #if (${INTERFACES} != "")implements ${INTERFACES} #end {
+    #parse("Java TAG.java")
+
+    private static final ${NAME} ourInstance = new ${NAME}();
+
+    #if (${VISIBILITY} == "PUBLIC")public #end static ${NAME} getInstance() {
+        return ourInstance;
     }
 
     private ${NAME}() {

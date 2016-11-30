@@ -31,6 +31,15 @@
                 <id />
               </State>
               <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Performance</id>
+              </State>
+              <State>
                 <id>Class structureJava</id>
               </State>
               <State>
@@ -81,7 +90,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="android.sdk.path" value="$USER_HOME$/Library/Google/Android/sdk" />
         <property name="android.project.structure.last.selected" value="SDK Location" />
