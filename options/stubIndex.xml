@@ -15,15 +15,18 @@
         <option value="java.anonymous.baseref" />
         <option value="gr.script.fqn" />
         <option value="gr.field.name" />
+        <option value="markdown.plain-text-element.index" />
         <option value="gr.method.name" />
-        <option value="gr.annot.members" />
         <option value="gr.annot.method.name" />
         <option value="gr.script.class" />
+        <option value="markdown.referenceable-text.index" />
+        <option value="markdown.flexmark.example.option.index" />
         <option value="gr.anonymous.class" />
+        <option value="markdown.link-element.index" />
         <option value="gr.class.fqn" />
         <option value="gr.class.super" />
         <option value="jvm.static.member.name" />
-        <option value="markdown.flexmark.example.option.index" />
+        <option value="gr.annot.members" />
         <option value="jvm.static.member.type" />
         <option value="java.unit.tree" />
       </list>
