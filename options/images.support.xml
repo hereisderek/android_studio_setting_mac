@@ -1,6 +1,6 @@
 <application>
   <component name="Images.OptionsManager">
-    <setting name="Editor.Grid.showDefault" value="false" />
+    <setting name="Editor.Grid.showDefault" value="true" />
     <setting name="Editor.Grid.lineZoomFactor" value="3" />
     <setting name="Editor.Grid.lineSpan" value="1" />
     <setting name="Editor.Grid.lineColor" value="c0c0c0" />
@@ -12,6 +12,6 @@
     <setting name="Editor.Zoom.smartZooming" value="true" />
     <setting name="Editor.Zoom.prefferedWidth" value="128" />
     <setting name="Editor.Zoom.prefferedHeight" value="128" />
-    <setting name="ExternalEditor.executablePath" value="" />
+    <setting name="ExternalEditor.executablePath" value="/Applications/Preview.app" />
   </component>
 </application>

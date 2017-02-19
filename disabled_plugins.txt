@@ -1,2 +1,3 @@
+com.vladsch.idea.multimarkdown
 net.vektah.codeglance
 org.jetbrains.kotlin
