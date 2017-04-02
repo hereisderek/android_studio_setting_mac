@@ -70,8 +70,9 @@
   </XML>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
