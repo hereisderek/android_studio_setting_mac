@@ -1,11 +1,15 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="800" />
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
+    <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseEndOfLineComments" value="true" />
+    <option name="COLLAPSE_ANONYMOUS_CLASSES" value="true" />
     <option name="COLLAPSE_END_OF_LINE_COMMENTS" value="true" />
   </component>
 </application>
