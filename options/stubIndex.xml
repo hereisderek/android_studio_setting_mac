@@ -48,6 +48,7 @@
         <option value="properties.index" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex" />
         <option value="markdown.referenceable-text.index" />
         <option value="markdown.plain-text-element.index" />
         <option value="markdown.link-element.index" />
