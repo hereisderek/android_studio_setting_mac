@@ -93,6 +93,7 @@
   </XML>
   <codeStyleSettings language="Dart">
     <option name="RIGHT_MARGIN" value="-1" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="0" />
     <option name="METHOD_PARAMETERS_WRAP" value="0" />
