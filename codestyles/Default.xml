@@ -93,7 +93,6 @@
   </XML>
   <codeStyleSettings language="Dart">
     <option name="RIGHT_MARGIN" value="-1" />
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="0" />
     <option name="METHOD_PARAMETERS_WRAP" value="0" />
@@ -101,11 +100,9 @@
     <option name="TERNARY_OPERATION_WRAP" value="0" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="false" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="false" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="false" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="false" />
     <option name="ASSIGNMENT_WRAP" value="0" />
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="3" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
