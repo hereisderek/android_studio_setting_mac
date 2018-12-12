@@ -2,7 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="accentColor" value="1850cb" />
+    <option name="accentColor" value="FF9800" />
     <option name="tabsHeight" value="20" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
