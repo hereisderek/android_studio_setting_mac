@@ -157,6 +157,9 @@
   <codeStyleSettings language="kotlin">
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
     <option name="CALL_PARAMETERS_WRAP" value="0" />
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="false" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="false" />
     <option name="METHOD_PARAMETERS_WRAP" value="0" />
