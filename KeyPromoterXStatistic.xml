@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>123</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -86,7 +86,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'frsipMobile'</Description>
-          <Count>25</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -102,7 +102,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'frsipMobile'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
