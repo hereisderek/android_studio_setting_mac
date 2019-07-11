@@ -30,6 +30,9 @@
   <codeStyleSettings language="Dart">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
+  <codeStyleSettings language="Groovy">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
@@ -153,6 +156,7 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="0" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="false" />
