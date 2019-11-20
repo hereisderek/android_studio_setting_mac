@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="db" type="Native" />
+      <mapping ext="properities" type="PLAIN_TEXT" />
+      <removed_mapping ext="db" type="SQLite" />
     </extensionMap>
   </component>
 </application>
