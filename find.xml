@@ -12,8 +12,8 @@
     <mask>*.mxml</mask>
     <mask>*.kts</mask>
     <mask>*.kt</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
