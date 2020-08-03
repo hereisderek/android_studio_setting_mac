@@ -22,5 +22,6 @@
     <mask>*.gradle*</mask>
     <mask>*.kt*</mask>
     <mask>*.gra*</mask>
+    <mask>*.xml*</mask>
   </component>
 </application>
