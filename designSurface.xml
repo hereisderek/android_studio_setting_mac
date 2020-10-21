@@ -4,6 +4,7 @@
       <map>
         <entry key="app/src/main/res/drawable/button_solid_orange_grey.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_bolt_small.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/line_separator_light_grey.xml" value="0.14074074074074075" />
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
       </map>
     </option>
