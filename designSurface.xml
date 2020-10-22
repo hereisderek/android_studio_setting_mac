@@ -6,6 +6,8 @@
         <entry key="app/src/main/res/drawable/ic_bolt_small.xml" value="0.1" />
         <entry key="app/src/main/res/layout/line_separator_light_grey.xml" value="0.14074074074074075" />
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
+        <entry key="new-features-android/newfeatures/src/main/res/drawable/whats_new_default_dot.xml" value="0.125" />
+        <entry key="new-features-android/newfeatures/src/main/res/layout/fragment_whats_new.xml" value="0.1" />
       </map>
     </option>
   </component>
