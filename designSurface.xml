@@ -7,6 +7,7 @@
         <entry key="app/src/main/res/drawable/ic_bolt_small.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_forecast_alert_bell.xml" value="0.17962962962962964" />
         <entry key="app/src/main/res/layout/line_separator_light_grey.xml" value="0.14074074074074075" />
+        <entry key="app/src/main/res/layout/screen_energy_forecast.xml" value="0.22685185185185186" />
         <entry key="app/src/main/res/layout/screen_energy_forecast_constraint_layout.xml" value="0.24012158054711247" />
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
         <entry key="dashboard-android/dashboard/src/main/res/layout/fragment_dashboard.xml" value="0.11296296296296296" />
