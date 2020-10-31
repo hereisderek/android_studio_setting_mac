@@ -11,8 +11,8 @@
         <entry key="app/src/main/res/layout/screen_energy_forecast_constraint_layout.xml" value="0.24012158054711247" />
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
         <entry key="dashboard-android/dashboard/src/main/res/layout/fragment_dashboard.xml" value="0.11296296296296296" />
-        <entry key="material/src/main/res/drawable/view_custom_bottom_sheet_top_drag_bar.xml" value="0.1" />
-        <entry key="material/src/main/res/layout/view_custom_bottom_sheet_root.xml" value="0.22239108409321176" />
+        <entry key="material/src/main/res/drawable/view_custom_bottom_sheet_top_drag_bar.xml" value="0.3925925925925926" />
+        <entry key="material/src/main/res/layout/view_custom_bottom_sheet_root.xml" value="0.32222222222222224" />
         <entry key="new-features-android/newfeatures/src/main/res/drawable/whats_new_default_dot.xml" value="0.125" />
         <entry key="new-features-android/newfeatures/src/main/res/drawable/whats_new_gradient.xml" value="0.12962962962962962" />
         <entry key="new-features-android/newfeatures/src/main/res/layout/fragment_whats_new.xml" value="0.1" />
