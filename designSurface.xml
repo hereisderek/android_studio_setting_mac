@@ -4,6 +4,8 @@
       <map>
         <entry key="../../../../../../../layout/custom_preview.xml" value="0.3234375" />
         <entry key="app/src/main/res/drawable/button_solid_orange_grey.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.234375" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back_white.xml" value="0.2203125" />
         <entry key="app/src/main/res/drawable/ic_bolt_small.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_forecast_alert_bell.xml" value="0.17962962962962964" />
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
@@ -15,9 +17,11 @@
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
         <entry key="app/src/main/res/xml/empty_preferences.xml" value="0.20606884057971014" />
         <entry key="app/src/main/res/xml/remote_config_values.xml" value="0.20606884057971014" />
+        <entry key="appcommons-android/appcommons/src/main/res/drawable/ic_close_white_24dp.xml" value="0.2203125" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/layout_toolbar.xml" value="0.16489361702127658" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/line_separator_grey.xml" value="0.20380434782608695" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/widget_card_parent.xml" value="0.20471014492753623" />
+        <entry key="dashboard-android/dashboard/src/main/res/drawable/ic_drawer_menu.xml" value="0.234375" />
         <entry key="dashboard-android/dashboard/src/main/res/layout/fragment_dashboard.xml" value="0.21529888551165147" />
         <entry key="material/src/main/res/drawable/view_custom_bottom_sheet_top_drag_bar.xml" value="0.3925925925925926" />
         <entry key="material/src/main/res/layout/view_custom_bottom_sheet_root.xml" value="0.32222222222222224" />
