@@ -15,6 +15,7 @@
         <entry key="app/src/main/res/layout/line_separator_light_grey.xml" value="0.14074074074074075" />
         <entry key="app/src/main/res/layout/screen_energy_forecast.xml" value="0.22685185185185186" />
         <entry key="app/src/main/res/layout/screen_energy_forecast_constraint_layout.xml" value="0.24012158054711247" />
+        <entry key="app/src/main/res/layout/view_alert_settings_root.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_bill.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
         <entry key="app/src/main/res/xml/empty_preferences.xml" value="0.20606884057971014" />
