@@ -12,6 +12,7 @@
         <entry key="app/src/main/res/drawable/ic_arrow_back_white.xml" value="0.2203125" />
         <entry key="app/src/main/res/drawable/ic_bolt_small.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_forecast_alert_bell.xml" value="0.17962962962962964" />
+        <entry key="app/src/main/res/drawable/ic_tree_scale_5.xml" value="0.28425925925925927" />
         <entry key="app/src/main/res/drawable/rounded_light_grey_bg.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_insight_yearly.xml" value="0.1" />
