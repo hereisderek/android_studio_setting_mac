@@ -7,6 +7,7 @@
         <entry key="../../../../../../../../../layout/compose-model-1610918390089.xml" value="1.0" />
         <entry key="../../../../../../../../layout/custom_preview.xml" value="0.275" />
         <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/background_rounded_forecast_tree_graph_cell_foot_time.xml" value="0.10555555555555556" />
         <entry key="app/src/main/res/drawable/button_solid_orange_grey.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.234375" />
         <entry key="app/src/main/res/drawable/ic_arrow_back_white.xml" value="0.2203125" />
@@ -17,7 +18,7 @@
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_insight_yearly.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/generation_mix_forecast.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/generation_mix_forecast.xml" value="0.22" />
         <entry key="app/src/main/res/layout/line_separator_light_grey.xml" value="0.14074074074074075" />
         <entry key="app/src/main/res/layout/screen_energy_forecast.xml" value="0.22685185185185186" />
         <entry key="app/src/main/res/layout/screen_energy_forecast_constraint_layout.xml" value="0.24012158054711247" />
