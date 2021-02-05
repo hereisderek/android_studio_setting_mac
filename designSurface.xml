@@ -17,11 +17,13 @@
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1" />
         <entry key="app/src/main/res/layout/generation_mix_forecast.xml" value="0.11695906432748537" />
+        <entry key="app/src/main/res/layout/layout_menu_energy_forecast_metric_switcher.xml" value="0.13518518518518519" />
         <entry key="app/src/main/res/layout/line_separator_light_grey.xml" value="0.14074074074074075" />
         <entry key="app/src/main/res/layout/screen_energy_forecast.xml" value="0.22685185185185186" />
         <entry key="app/src/main/res/layout/screen_energy_forecast_constraint_layout.xml" value="0.24012158054711247" />
         <entry key="app/src/main/res/layout/widget_card_bill.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_energy_forecast.xml" value="0.13518518518518519" />
         <entry key="app/src/main/res/xml/empty_preferences.xml" value="0.20606884057971014" />
         <entry key="app/src/main/res/xml/remote_config_values.xml" value="0.20606884057971014" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/button_solid_colored_enabled.xml" value="0.15625" />
@@ -39,6 +41,8 @@
         <entry key="new-features-android/newfeatures/src/main/res/drawable/whats_new_gradient.xml" value="0.12962962962962962" />
         <entry key="new-features-android/newfeatures/src/main/res/layout/fragment_whats_new.xml" value="0.1" />
         <entry key="usage-android/usage/src/main/res/layout/activity_electricity_usage.xml" value="0.17325227963525835" />
+        <entry key="usage-android/usage/src/main/res/layout/menu_item_metric_switcher.xml" value="0.14166666666666666" />
+        <entry key="usage-android/usage/src/main/res/menu/usage_menu.xml" value="0.14166666666666666" />
       </map>
     </option>
   </component>
