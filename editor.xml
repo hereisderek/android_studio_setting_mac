@@ -15,6 +15,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="JetEditorOptions">
