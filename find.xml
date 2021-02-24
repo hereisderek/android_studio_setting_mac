@@ -18,7 +18,7 @@
     <mask>*.gra*</mask>
     <mask>*.xml*</mask>
     <mask>*.kts*</mask>
-    <mask>*.gradle*</mask>
     <mask>*.kt*</mask>
+    <mask>*.gradle*</mask>
   </component>
 </application>
