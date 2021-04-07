@@ -86,8 +86,8 @@
         <entry key="*.asm">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.android.tools.ndk" />
-              <option name="myPluginName" value="Android NDK Support" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -152,6 +152,14 @@
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cpt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.thoughtworks.gauge" />
+              <option name="myPluginName" value="Gauge" />
             </plugin>
           </value>
         </entry>
@@ -236,8 +244,8 @@
         <entry key="*.doxygen">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.android.tools.ndk" />
-              <option name="myPluginName" value="Android NDK Support" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -317,8 +325,8 @@
         <entry key="*.gdbcommandsfiletypeextension">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.android.tools.ndk" />
-              <option name="myPluginName" value="Android NDK Support" />
+              <option name="myPluginId" value="com.intellij.cidr.base" />
+              <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -416,8 +424,8 @@
         <entry key="*.hmap">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.android.tools.ndk" />
-              <option name="myPluginName" value="Android NDK Support" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -679,9 +687,25 @@
         <entry key="*.lldbcommandsfiletypeextension">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.android.tools.ndk" />
-              <option name="myPluginName" value="Android NDK Support" />
+              <option name="myPluginId" value="com.intellij.cidr.base" />
+              <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.markdown">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.md">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
             </plugin>
           </value>
         </entry>
@@ -715,8 +739,8 @@
         <entry key="*.modulemap">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.android.tools.ndk" />
-              <option name="myPluginName" value="Android NDK Support" />
+              <option name="myPluginId" value="com.intellij.cidr.lang" />
+              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -988,6 +1012,14 @@
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.spec">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.thoughtworks.gauge" />
+              <option name="myPluginName" value="Gauge" />
             </plugin>
           </value>
         </entry>
@@ -1537,6 +1569,11 @@
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="executeSpecs">
+                    <value>
+                      <FeaturePluginData displayName="Gauge Execution" pluginName="Gauge" pluginId="com.thoughtworks.gauge" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
@@ -1599,7 +1636,7 @@
                 <map>
                   <entry key="apk">
                     <value>
-                      <FeaturePluginData displayName="Android Application" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="jar">
