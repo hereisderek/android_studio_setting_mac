@@ -26,6 +26,8 @@
         <entry key="app/src/main/res/layout/screen_energy_forecast.xml" value="0.22685185185185186" />
         <entry key="app/src/main/res/layout/screen_energy_forecast_constraint_layout.xml" value="0.24012158054711247" />
         <entry key="app/src/main/res/layout/view_alert_settings_root.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/view_completion.xml" value="0.19927536231884058" />
+        <entry key="app/src/main/res/layout/view_home_profile_feedback.xml" value="0.2684903748733536" />
         <entry key="app/src/main/res/layout/widget_card_bill.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_bill_insight.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
