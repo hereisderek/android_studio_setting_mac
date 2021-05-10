@@ -32,7 +32,7 @@
         <entry key="app/src/main/res/layout/widget_card_bill.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_bill_insight.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/widget_card_energy_forecast.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/widget_card_energy_forecast.xml" value="0.33425925925925926" />
         <entry key="app/src/main/res/xml/empty_preferences.xml" value="0.20606884057971014" />
         <entry key="app/src/main/res/xml/remote_config_values.xml" value="0.20606884057971014" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/ic_close_white_24dp.xml" value="0.2203125" />
