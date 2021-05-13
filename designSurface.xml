@@ -6,6 +6,7 @@
         <entry key="../../../../../../../../../layout/compose-model-1610886995141.xml" value="1.3949579831932772" />
         <entry key="../../../../../../../../../layout/compose-model-1610918390089.xml" value="1.0" />
         <entry key="../../../../../../../../../layout/compose-model-1611655082164.xml" value="1.8413391557496361" />
+        <entry key="../../../../../../../../Users/derek/.gradle/caches/transforms-3/c2464087fcabcf1da310d44256b56f07/transformed/jetified-android-segmented-1.0.6/res/drawable/radio_checked.xml" value="0.48802083333333335" />
         <entry key="../../../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/background_rounded_forecast_tree_graph_cell_foot_time.xml" value="0.22592592592592592" />
@@ -14,12 +15,14 @@
         <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.234375" />
         <entry key="app/src/main/res/drawable/ic_arrow_back_white.xml" value="0.2203125" />
         <entry key="app/src/main/res/drawable/ic_bolt_small.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_check_white.xml" value="0.5020833333333333" />
         <entry key="app/src/main/res/drawable/ic_chevron_back.xml" value="0.17864583333333334" />
         <entry key="app/src/main/res/drawable/ic_chevron_forward.xml" value="0.3435185185185185" />
         <entry key="app/src/main/res/drawable/ic_chevron_right.xml" value="0.3435185185185185" />
         <entry key="app/src/main/res/drawable/ic_forecast_alert_bell.xml" value="0.17962962962962964" />
         <entry key="app/src/main/res/drawable/ic_tree_scale_5.xml" value="0.28425925925925927" />
         <entry key="app/src/main/res/drawable/rounded_light_grey_bg.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_address_check.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.30344202898550726" />
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_insight_yearly.xml" value="0.1" />
@@ -37,6 +40,8 @@
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_energy_forecast.xml" value="0.33425925925925926" />
         <entry key="app/src/main/res/layout/widget_card_ev_question.xml" value="0.5748743718592965" />
+        <entry key="app/src/main/res/layout/widget_card_ev_question_cell.xml" value="0.2368287740628166" />
+        <entry key="app/src/main/res/layout/widget_card_ev_question_cell_choice.xml" value="0.5" />
         <entry key="app/src/main/res/layout/widget_card_home_comparison.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/xml/empty_preferences.xml" value="0.20606884057971014" />
         <entry key="app/src/main/res/xml/remote_config_values.xml" value="0.20606884057971014" />
@@ -47,6 +52,7 @@
         <entry key="appcommons-android/appcommons/src/main/res/layout/layout_toolbar.xml" value="0.16489361702127658" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/line_separator_grey.xml" value="0.20380434782608695" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/widget_card_parent.xml" value="0.33" />
+        <entry key="bills-android/bills/src/main/res/drawable/bill_child_tab_left_checked_bg.xml" value="0.48802083333333335" />
         <entry key="dashboard-android/dashboard/src/main/res/drawable/ic_drawer_menu.xml" value="0.234375" />
         <entry key="dashboard-android/dashboard/src/main/res/layout/fragment_dashboard.xml" value="0.21529888551165147" />
         <entry key="material/src/main/res/drawable/view_custom_bottom_sheet_top_drag_bar.xml" value="0.3925925925925926" />
