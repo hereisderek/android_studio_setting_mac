@@ -41,7 +41,7 @@
         <entry key="app/src/main/res/layout/widget_card_energy_forecast.xml" value="0.33425925925925926" />
         <entry key="app/src/main/res/layout/widget_card_ev_question.xml" value="0.2682370820668693" />
         <entry key="app/src/main/res/layout/widget_card_ev_question_cell.xml" value="0.2368287740628166" />
-        <entry key="app/src/main/res/layout/widget_card_ev_question_cell_choice.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/widget_card_ev_question_cell_choice.xml" value="0.3321446992974412" />
         <entry key="app/src/main/res/layout/widget_card_home_comparison.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/xml/empty_preferences.xml" value="0.20606884057971014" />
         <entry key="app/src/main/res/xml/remote_config_values.xml" value="0.20606884057971014" />
