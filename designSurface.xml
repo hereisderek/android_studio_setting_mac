@@ -39,7 +39,7 @@
         <entry key="app/src/main/res/layout/widget_card_bill_insight.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_electricity_usage.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widget_card_energy_forecast.xml" value="0.33425925925925926" />
-        <entry key="app/src/main/res/layout/widget_card_ev_question.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/widget_card_ev_question.xml" value="0.2682370820668693" />
         <entry key="app/src/main/res/layout/widget_card_ev_question_cell.xml" value="0.2368287740628166" />
         <entry key="app/src/main/res/layout/widget_card_ev_question_cell_choice.xml" value="0.5" />
         <entry key="app/src/main/res/layout/widget_card_home_comparison.xml" value="0.25905797101449274" />
