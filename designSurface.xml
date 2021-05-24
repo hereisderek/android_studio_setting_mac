@@ -55,6 +55,7 @@
         <entry key="appcommons-android/appcommons/src/main/res/drawable/view_dashboard_discount_rounded_background.xml" value="0.19722222222222222" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/layout_toolbar.xml" value="0.16489361702127658" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/line_separator_grey.xml" value="0.20380434782608695" />
+        <entry key="appcommons-android/appcommons/src/main/res/layout/widget_card_common_views.xml" value="0.1308876811594203" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/widget_card_parent.xml" value="0.33" />
         <entry key="bills-android/bills/src/main/res/drawable/bill_child_tab_left_checked_bg.xml" value="0.48802083333333335" />
         <entry key="dashboard-android/dashboard/src/main/res/drawable/ic_drawer_menu.xml" value="0.234375" />
