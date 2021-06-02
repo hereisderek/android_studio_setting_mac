@@ -28,8 +28,9 @@
         <entry key="app/src/main/res/drawable/rounded_light_grey_bg.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/activity_address_check.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.30344202898550726" />
-        <entry key="app/src/main/res/layout/fragment_bill_insight.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/fragment_bill_insight.xml" value="0.24096385542168675" />
         <entry key="app/src/main/res/layout/fragment_bill_insight_content.xml" value="0.3333333333333333" />
+        <entry key="app/src/main/res/layout/fragment_ev_base.xml" value="0.2198581560283688" />
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_insight_yearly.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1" />
