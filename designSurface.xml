@@ -32,13 +32,13 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.30344202898550726" />
         <entry key="app/src/main/res/layout/fragment_bill_insight.xml" value="0.3667679837892604" />
         <entry key="app/src/main/res/layout/fragment_bill_insight_content.xml" value="0.3333333333333333" />
-        <entry key="app/src/main/res/layout/fragment_ev_base.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/fragment_ev_base.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_insight_yearly.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1" />
         <entry key="app/src/main/res/layout/generation_mix_forecast.xml" value="0.3401268115942029" />
         <entry key="app/src/main/res/layout/line_separator_light_grey.xml" value="0.14074074074074075" />
-        <entry key="app/src/main/res/layout/screen_energy_forecast.xml" value="0.22685185185185186" />
+        <entry key="app/src/main/res/layout/screen_energy_forecast.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/screen_energy_forecast_constraint_layout.xml" value="0.24012158054711247" />
         <entry key="app/src/main/res/layout/view_alert_settings_root.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_bill_insight_comparison_graph.xml" value="0.3333333333333333" />
@@ -60,7 +60,7 @@
         <entry key="appcommons-android/appcommons/src/main/res/drawable/round_rectangle.xml" value="0.20416666666666666" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/view_beta_rounded_background.xml" value="0.20416666666666666" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/view_dashboard_discount_rounded_background.xml" value="0.19722222222222222" />
-        <entry key="appcommons-android/appcommons/src/main/res/layout/layout_toolbar.xml" value="0.16489361702127658" />
+        <entry key="appcommons-android/appcommons/src/main/res/layout/layout_toolbar.xml" value="0.2758152173913043" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/line_separator_grey.xml" value="0.20380434782608695" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/widget_card_common_views.xml" value="0.1308876811594203" />
         <entry key="appcommons-android/appcommons/src/main/res/layout/widget_card_parent.xml" value="0.33" />
