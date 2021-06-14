@@ -62,6 +62,7 @@
         <entry key="app/src/main/res/xml/empty_preferences.xml" value="0.20606884057971014" />
         <entry key="app/src/main/res/xml/remote_config_values.xml" value="0.20606884057971014" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/ic_close_white_24dp.xml" value="0.2203125" />
+        <entry key="appcommons-android/appcommons/src/main/res/drawable/power_shout.xml" value="0.240625" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/round_rectangle.xml" value="0.20416666666666666" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/view_beta_rounded_background.xml" value="0.20416666666666666" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/view_dashboard_discount_rounded_background.xml" value="0.19722222222222222" />
