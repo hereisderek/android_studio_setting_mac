@@ -19,6 +19,9 @@
         <entry key="app/src/main/res/drawable/bottom_border.xml" value="0.1875" />
         <entry key="app/src/main/res/drawable/button_solid_orange_grey.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/eco_tracker_forecast_background.xml" value="0.53125" />
+        <entry key="app/src/main/res/drawable/ev_time_am_bg.xml" value="0.46574074074074073" />
+        <entry key="app/src/main/res/drawable/ev_time_am_pm_bg.xml" value="0.3" />
+        <entry key="app/src/main/res/drawable/ev_time_pm_bg.xml" value="0.46574074074074073" />
         <entry key="app/src/main/res/drawable/ev_time_text_bg.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ev_widget_single_choice_cell_background.xml" value="0.49444444444444446" />
         <entry key="app/src/main/res/drawable/ev_widget_single_choice_cell_letter_background.xml" value="0.3494791666666667" />
@@ -48,7 +51,7 @@
         <entry key="app/src/main/res/layout/view_alert_settings_root.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_bill_insight_comparison_graph.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/layout/view_completion.xml" value="0.19927536231884058" />
-        <entry key="app/src/main/res/layout/view_ev_profile_setup.xml" value="0.4288888888888889" />
+        <entry key="app/src/main/res/layout/view_ev_profile_setup.xml" value="0.48188405797101447" />
         <entry key="app/src/main/res/layout/view_holder_home_profile_question_answer.xml" value="0.267983789260385" />
         <entry key="app/src/main/res/layout/view_home_profile_feedback.xml" value="0.2684903748733536" />
         <entry key="app/src/main/res/layout/widget_card_bill.xml" value="0.1" />
