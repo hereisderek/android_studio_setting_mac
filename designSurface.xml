@@ -39,7 +39,7 @@
         <entry key="app/src/main/res/drawable/rounded_light_grey_bg.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/activity_address_check.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.30344202898550726" />
-        <entry key="app/src/main/res/layout/ev_activity_setup_edit_benefits.xml" value="0.26811594202898553" />
+        <entry key="app/src/main/res/layout/ev_activity_setup_edit_benefits.xml" value="0.2871376811594203" />
         <entry key="app/src/main/res/layout/fragment_bill_insight.xml" value="0.3667679837892604" />
         <entry key="app/src/main/res/layout/fragment_bill_insight_content.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/layout/fragment_ev_base.xml" value="0.25" />
