@@ -19,6 +19,7 @@
         <entry key="app/src/main/res/drawable/bottom_border.xml" value="0.1875" />
         <entry key="app/src/main/res/drawable/button_solid_orange_grey.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/eco_tracker_forecast_background.xml" value="0.53125" />
+        <entry key="app/src/main/res/drawable/ev_benefit_bottom_image_background.xml" value="0.42153846153846153" />
         <entry key="app/src/main/res/drawable/ev_benefits_bottom_image.xml" value="0.9" />
         <entry key="app/src/main/res/drawable/ev_set_forget_icon.xml" value="0.17447916666666666" />
         <entry key="app/src/main/res/drawable/ev_time_am_bg.xml" value="0.46574074074074073" />
