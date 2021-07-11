@@ -48,6 +48,7 @@
         <entry key="app/src/main/res/layout/fragment_bill_insight_content.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/layout/fragment_ev_base.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_ev_benefits.xml" value="0.3416919959473151" />
+        <entry key="app/src/main/res/layout/fragment_ev_landing.xml" value="0.2439209726443769" />
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_insight_yearly.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1" />
