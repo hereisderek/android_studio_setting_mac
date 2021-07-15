@@ -22,6 +22,7 @@
         <entry key="app/src/main/res/drawable/eco_tracker_forecast_background.xml" value="0.53125" />
         <entry key="app/src/main/res/drawable/ev_benefit_bottom_image_background.xml" value="0.42153846153846153" />
         <entry key="app/src/main/res/drawable/ev_benefits_bottom_image.xml" value="0.9" />
+        <entry key="app/src/main/res/drawable/ev_profile_header_background.xml" value="0.33125" />
         <entry key="app/src/main/res/drawable/ev_set_forget_icon.xml" value="0.17447916666666666" />
         <entry key="app/src/main/res/drawable/ev_time_am_bg.xml" value="0.46574074074074073" />
         <entry key="app/src/main/res/drawable/ev_time_am_pm_bg.xml" value="0.3" />
@@ -34,6 +35,7 @@
         <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.234375" />
         <entry key="app/src/main/res/drawable/ic_arrow_back_white.xml" value="0.2203125" />
         <entry key="app/src/main/res/drawable/ic_bolt_small.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_bulb_icon.xml" value="0.33125" />
         <entry key="app/src/main/res/drawable/ic_check_white.xml" value="0.5020833333333333" />
         <entry key="app/src/main/res/drawable/ic_chevron_back.xml" value="0.17864583333333334" />
         <entry key="app/src/main/res/drawable/ic_chevron_forward.xml" value="0.3435185185185185" />
@@ -69,6 +71,7 @@
         <entry key="app/src/main/res/layout/view_completion.xml" value="0.19927536231884058" />
         <entry key="app/src/main/res/layout/view_ev_benefits_item.xml" value="0.33" />
         <entry key="app/src/main/res/layout/view_ev_landing_header.xml" value="0.3796875" />
+        <entry key="app/src/main/res/layout/view_ev_profile.xml" value="0.31974050046339203" />
         <entry key="app/src/main/res/layout/view_ev_profile_setup.xml" value="0.4216783216783217" />
         <entry key="app/src/main/res/layout/view_holder_home_profile_question_answer.xml" value="0.267983789260385" />
         <entry key="app/src/main/res/layout/view_home_profile_feedback.xml" value="0.2684903748733536" />
