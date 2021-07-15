@@ -30,6 +30,7 @@
         <entry key="app/src/main/res/drawable/ev_widget_single_choice_cell_background.xml" value="0.49444444444444446" />
         <entry key="app/src/main/res/drawable/ev_widget_single_choice_cell_letter_background.xml" value="0.3494791666666667" />
         <entry key="app/src/main/res/drawable/ev_widget_single_choice_choice_background.xml" value="0.30462962962962964" />
+        <entry key="app/src/main/res/drawable/grey_wave_bg_drawable.xml" value="0.2786458333333333" />
         <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.234375" />
         <entry key="app/src/main/res/drawable/ic_arrow_back_white.xml" value="0.2203125" />
         <entry key="app/src/main/res/drawable/ic_bolt_small.xml" value="0.1" />
@@ -44,19 +45,25 @@
         <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.1424162257495591" />
         <entry key="app/src/main/res/layout/activity_address_check.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3134057971014493" />
+        <entry key="app/src/main/res/layout/activity_power_shout_currency.xml" value="0.245018115942029" />
         <entry key="app/src/main/res/layout/ev_activity_setup_edit_benefits.xml" value="0.2871376811594203" />
         <entry key="app/src/main/res/layout/fragment_bill_insight.xml" value="0.3667679837892604" />
         <entry key="app/src/main/res/layout/fragment_bill_insight_content.xml" value="0.3333333333333333" />
+        <entry key="app/src/main/res/layout/fragment_change_address.xml" value="0.245018115942029" />
         <entry key="app/src/main/res/layout/fragment_ev_base.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_ev_benefits.xml" value="0.3416919959473151" />
         <entry key="app/src/main/res/layout/fragment_ev_landing.xml" value="0.3796875" />
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_insight_yearly.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_powershout_booking.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/fragment_powershout_tutorial.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/fragment_ps_offer.xml" value="0.245018115942029" />
         <entry key="app/src/main/res/layout/generation_mix_forecast.xml" value="0.3401268115942029" />
         <entry key="app/src/main/res/layout/line_separator_light_grey.xml" value="0.14074074074074075" />
         <entry key="app/src/main/res/layout/screen_energy_forecast.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/screen_energy_forecast_constraint_layout.xml" value="0.24012158054711247" />
+        <entry key="app/src/main/res/layout/screen_power_shout.xml" value="0.245018115942029" />
         <entry key="app/src/main/res/layout/view_alert_settings_root.xml" value="0.1" />
         <entry key="app/src/main/res/layout/view_bill_insight_comparison_graph.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/layout/view_completion.xml" value="0.19927536231884058" />
