@@ -13,6 +13,7 @@
         <entry key="app/src/main/res/drawable/background_dialog_rounded_button.xml" value="0.3265625" />
         <entry key="app/src/main/res/drawable/background_dialog_rounded_button_states.xml" value="0.1875" />
         <entry key="app/src/main/res/drawable/background_edit_text_rounded_selectable.xml" value="0.22135416666666666" />
+        <entry key="app/src/main/res/drawable/background_ev_landing_bottom_charge_now_button.xml" value="0.6109375" />
         <entry key="app/src/main/res/drawable/background_ev_landing_header.xml" value="0.39479166666666665" />
         <entry key="app/src/main/res/drawable/background_home_profile_question_progress.xml" value="0.1734375" />
         <entry key="app/src/main/res/drawable/background_rounded_bottom.xml" value="0.1875" />
@@ -58,7 +59,7 @@
         <entry key="app/src/main/res/layout/fragment_change_address.xml" value="0.245018115942029" />
         <entry key="app/src/main/res/layout/fragment_ev_base.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_ev_benefits.xml" value="0.3416919959473151" />
-        <entry key="app/src/main/res/layout/fragment_ev_landing.xml" value="0.5315203955500618" />
+        <entry key="app/src/main/res/layout/fragment_ev_landing.xml" value="0.3496376811594203" />
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_insight_yearly.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1" />
