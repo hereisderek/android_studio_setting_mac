@@ -9,9 +9,11 @@
         <entry key="../../../../../../../../Users/derek/.gradle/caches/transforms-3/c2464087fcabcf1da310d44256b56f07/transformed/jetified-android-segmented-1.0.6/res/drawable/radio_checked.xml" value="0.48802083333333335" />
         <entry key="../../../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-mdpi/ev_profile_header_background.xml" value="0.4473958333333333" />
         <entry key="app/src/main/res/drawable/background_dialog_rounded_button.xml" value="0.3265625" />
         <entry key="app/src/main/res/drawable/background_dialog_rounded_button_states.xml" value="0.1875" />
         <entry key="app/src/main/res/drawable/background_edit_text_rounded_selectable.xml" value="0.22135416666666666" />
+        <entry key="app/src/main/res/drawable/background_ev_landing_bottom_charge_now_button.xml" value="0.6109375" />
         <entry key="app/src/main/res/drawable/background_ev_landing_header.xml" value="0.39479166666666665" />
         <entry key="app/src/main/res/drawable/background_home_profile_question_progress.xml" value="0.1734375" />
         <entry key="app/src/main/res/drawable/background_rounded_bottom.xml" value="0.1875" />
@@ -19,9 +21,11 @@
         <entry key="app/src/main/res/drawable/background_rounded_orange_tab.xml" value="0.30462962962962964" />
         <entry key="app/src/main/res/drawable/bottom_border.xml" value="0.1875" />
         <entry key="app/src/main/res/drawable/button_solid_orange_grey.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/card_view_background.xml" value="0.358974358974359" />
         <entry key="app/src/main/res/drawable/eco_tracker_forecast_background.xml" value="0.53125" />
         <entry key="app/src/main/res/drawable/ev_benefit_bottom_image_background.xml" value="0.42153846153846153" />
         <entry key="app/src/main/res/drawable/ev_benefits_bottom_image.xml" value="0.9" />
+        <entry key="app/src/main/res/drawable/ev_landing_card_background.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/ev_profile_header_background.xml" value="0.33125" />
         <entry key="app/src/main/res/drawable/ev_set_forget_icon.xml" value="0.17447916666666666" />
         <entry key="app/src/main/res/drawable/ev_time_am_bg.xml" value="0.46574074074074073" />
@@ -42,6 +46,7 @@
         <entry key="app/src/main/res/drawable/ic_chevron_right.xml" value="0.3435185185185185" />
         <entry key="app/src/main/res/drawable/ic_ev_set_forget_icon.xml" value="0.17447916666666666" />
         <entry key="app/src/main/res/drawable/ic_forecast_alert_bell.xml" value="0.17962962962962964" />
+        <entry key="app/src/main/res/drawable/ic_three_dots.xml" value="0.3927083333333333" />
         <entry key="app/src/main/res/drawable/ic_tree_scale_5.xml" value="0.28425925925925927" />
         <entry key="app/src/main/res/drawable/rounded_light_grey_bg.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.1424162257495591" />
@@ -54,7 +59,7 @@
         <entry key="app/src/main/res/layout/fragment_change_address.xml" value="0.245018115942029" />
         <entry key="app/src/main/res/layout/fragment_ev_base.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_ev_benefits.xml" value="0.3416919959473151" />
-        <entry key="app/src/main/res/layout/fragment_ev_landing.xml" value="0.3796875" />
+        <entry key="app/src/main/res/layout/fragment_ev_landing.xml" value="0.3496376811594203" />
         <entry key="app/src/main/res/layout/fragment_inbox_usage_alert.xml" value="0.1474164133738602" />
         <entry key="app/src/main/res/layout/fragment_insight_yearly.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1" />
@@ -70,8 +75,8 @@
         <entry key="app/src/main/res/layout/view_bill_insight_comparison_graph.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/layout/view_completion.xml" value="0.19927536231884058" />
         <entry key="app/src/main/res/layout/view_ev_benefits_item.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/view_ev_landing_header.xml" value="0.67" />
-        <entry key="app/src/main/res/layout/view_ev_profile.xml" value="0.31974050046339203" />
+        <entry key="app/src/main/res/layout/view_ev_landing_header.xml" value="0.5465080106826281" />
+        <entry key="app/src/main/res/layout/view_ev_profile.xml" value="0.19731509625126648" />
         <entry key="app/src/main/res/layout/view_ev_profile_setup.xml" value="0.4216783216783217" />
         <entry key="app/src/main/res/layout/view_holder_home_profile_question_answer.xml" value="0.267983789260385" />
         <entry key="app/src/main/res/layout/view_home_profile_feedback.xml" value="0.2684903748733536" />
@@ -87,6 +92,8 @@
         <entry key="app/src/main/res/layout/widget_card_home_comparison.xml" value="0.25905797101449274" />
         <entry key="app/src/main/res/xml/empty_preferences.xml" value="0.20606884057971014" />
         <entry key="app/src/main/res/xml/remote_config_values.xml" value="0.20606884057971014" />
+        <entry key="appcommons-android/appcommons/src/main/res/drawable/button_solid_orange_grey.xml" value="0.3125" />
+        <entry key="appcommons-android/appcommons/src/main/res/drawable/button_solid_orange_grey_text.xml" value="0.33229166666666665" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/ic_close_white_24dp.xml" value="0.2203125" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/ic_info_white.xml" value="0.2" />
         <entry key="appcommons-android/appcommons/src/main/res/drawable/power_shout.xml" value="0.240625" />
