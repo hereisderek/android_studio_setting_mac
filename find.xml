@@ -1,0 +1,8 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project production files" />
+    <option name="defaultScopeName" value="Project production files" />
+    <option name="SEARCH_SCOPE" value="Project production files" />
+    <mask>.gradle</mask>
+  </component>
+</application>
