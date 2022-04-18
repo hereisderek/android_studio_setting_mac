@@ -5,13 +5,34 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="9de54002" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A3000" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="WCV5T19320006511" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-10-19T02:48:20.788221Z" />
         <name value="HUAWEI ELE-L09" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.33:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A3000" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
