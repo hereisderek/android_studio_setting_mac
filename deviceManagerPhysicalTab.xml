@@ -20,7 +20,8 @@
           </Key>
         </key>
         <name value="HUAWEI ELE-L09" />
-        <target value="Android 1.0" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
