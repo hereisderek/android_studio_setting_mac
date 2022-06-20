@@ -52,9 +52,8 @@
             <value value="HA1HP58A" />
           </Key>
         </key>
-        <name value="LENOVO Lenovo TB-J607F" />
-        <target value="Android 12L" />
-        <api value="androidversion:32:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
