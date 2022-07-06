@@ -66,6 +66,17 @@
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-cdf879f5-5iZcLY._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="ONEPLUS A6013" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
