@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="Project 'android-goodfellow'" />
+    <option name="defaultScopeName" value="Project 'android-goodfellow'" />
+    <option name="SEARCH_SCOPE" value="Project 'android-goodfellow'" />
   </component>
 </application>
