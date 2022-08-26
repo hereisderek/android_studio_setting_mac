@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine  listenForAppUpdateMessage" />
         <option value="package:mine  " />
         <option value="package:mine  savedInstanceState | listenForAppUpdateMessage" />
         <option value="package:mine  savedInstanceState|listenForAppUpdateMessage" />
         <option value="package:mine  savedInstanceState" />
-        <option value="package:mine  listenForAppUpdateMessage" />
         <option value="package:mine  AppUpdateMessageBottomSheet" />
-        <option value="package:mine " />
         <option value="package:mine checkUpdateAppMessage" />
         <option value="package:mine UserCardPromptView" />
         <option value="package:mine I/RuntimeHistory" />
