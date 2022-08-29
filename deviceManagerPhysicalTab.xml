@@ -95,8 +95,9 @@
             <value value="adb-99251FFAZ002D2-O65ptb._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="Google Pixel 4" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
