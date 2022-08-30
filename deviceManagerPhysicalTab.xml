@@ -15,6 +15,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-99251FFAZ002D2-O65ptb._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Google Pixel 4" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="99251FFAZ002D2" />
           </Key>
@@ -98,17 +109,6 @@
         <name value="ONEPLUS A6013" />
         <target value="Android 12L" />
         <api value="androidversion:32:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-99251FFAZ002D2-O65ptb._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="Google Pixel 4" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
