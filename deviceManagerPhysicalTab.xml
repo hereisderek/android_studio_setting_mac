@@ -85,8 +85,9 @@
             <value value="HA1HP58A" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="Lenovo TB-J607F" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
