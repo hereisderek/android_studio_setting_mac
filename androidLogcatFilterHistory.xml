@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ProfileBottomSheetFragment" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine ProfileBottomSheetFragment" />
         <option value="package:mine " />
+        <option value="package:mine ProfileBottomSheetFragment" />
         <option value="package:mine ProfileBottomSheet" />
         <option value="package:mine 5231" />
         <option value="package:mine  derek" />
