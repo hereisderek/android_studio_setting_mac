@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine TeleSignActivity" />
+    <option name="mostRecentlyUsed" value="package:mine TeleSignActivity | smsVerificationReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TeleSignActivity | smsVerificationReceiver" />
+        <option value="package:mine TeleSignActivity | s" />
         <option value="package:mine TeleSignActivity" />
         <option value="package:mine " />
         <option value="package:mine EnterPhoneNumberFragment" />
@@ -21,7 +23,6 @@
         <option value="package:mine checkUpdateAppMessage" />
         <option value="package:mine UserCardPromptView" />
         <option value="package:mine I/RuntimeHistory" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
