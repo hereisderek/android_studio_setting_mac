@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine DatingPrompt" />
         <option value="package:mine returningUserLogin" />
         <option value="package:mine DatingPromptRepo" />
         <option value="package:mine EnterOTPFragment | TeleSignActivity | EnterPhoneNumberFragment" />
@@ -21,7 +22,6 @@
         <option value="package:mine derek" />
         <option value="package:mine  listenForAppUpdateMessage" />
         <option value="package:mine  " />
-        <option value="package:mine  savedInstanceState | listenForAppUpdateMessage" />
       </list>
     </option>
   </component>
