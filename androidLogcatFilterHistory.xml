@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine returningUserLogin" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine returningUserLogin" />
         <option value="package:mine " />
+        <option value="package:mine returningUserLogin" />
         <option value="package:mine DatingPromptRepo" />
         <option value="package:mine EnterOTPFragment | TeleSignActivity | EnterPhoneNumberFragment" />
         <option value="package:mine TeleSignActivity" />
