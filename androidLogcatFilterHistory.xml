@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine DatingPrompt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DatingPrompt" />
+        <option value="package:mine DatingPromptRepoImpl" />
         <option value="package:mine " />
         <option value="package:mine" />
-        <option value="package:mine DatingPrompt" />
         <option value="package:mine returningUserLogin" />
         <option value="package:mine DatingPromptRepo" />
         <option value="package:mine EnterOTPFragment | TeleSignActivity | EnterPhoneNumberFragment" />
@@ -22,7 +23,6 @@
         <option value="package:mine 5231" />
         <option value="package:mine  derek" />
         <option value="package:mine derek" />
-        <option value="package:mine  listenForAppUpdateMessage" />
       </list>
     </option>
   </component>
