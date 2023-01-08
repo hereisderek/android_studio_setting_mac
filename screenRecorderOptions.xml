@@ -1,5 +1,6 @@
 <application>
   <component name="ScreenRecorderOptions">
+    <option name="bitRateMbps" value="10" />
     <option name="showTaps" value="true" />
   </component>
 </application>
