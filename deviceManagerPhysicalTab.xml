@@ -9,7 +9,7 @@
           </Key>
         </key>
         <name value="Google Pixel 4" />
-        <target value="Android Tiramisu" />
+        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
@@ -110,6 +110,17 @@
         <name value="ONEPLUS A6013" />
         <target value="Android 12L" />
         <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="cdf879f5" />
+          </Key>
+        </key>
+        <name value="ONEPLUS A6013" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
