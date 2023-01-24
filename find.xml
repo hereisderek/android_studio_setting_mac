@@ -7,5 +7,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>gradle</mask>
     <mask>*version*</mask>
+    <mask>*gradle*</mask>
+    <mask>*kts*</mask>
   </component>
 </application>
