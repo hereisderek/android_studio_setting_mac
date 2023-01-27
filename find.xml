@@ -8,7 +8,7 @@
     <mask>gradle</mask>
     <mask>*version*</mask>
     <mask>*gradle*</mask>
-    <mask>*kts*</mask>
     <mask>*kt*</mask>
+    <mask>*kts*</mask>
   </component>
 </application>
