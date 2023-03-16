@@ -10,6 +10,7 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -30,6 +31,20 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.kmm">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.cidr.base" />
+                  <option value="com.intellij.modules.androidstudio" />
+                  <option value="org.jetbrains.android" />
+                  <option value="org.jetbrains.kotlin" />
                 </set>
               </option>
             </PluginData>
@@ -90,6 +105,7 @@
                   <option value="org.jetbrains.kotlin" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
