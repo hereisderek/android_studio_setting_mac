@@ -86,7 +86,7 @@
           </Key>
         </key>
         <name value="Lenovo TB-J607F" />
-        <target value="Android Tiramisu" />
+        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
